@@ -1,0 +1,18 @@
+// SQL Server 2019 Cloud
+
+DB_CONNECTION=sqlsrv
+DB_HOST=142.93.216.110
+DB_PORT=1433
+DB_DATABASE=webdatacollect
+DB_USERNAME=sa
+DB_PASSWORD=Maestroo2010
+------------------------------------------------------------------------------------------------------------
+// SQL Server 2008 local
+
+DB_CONNECTION=sqlsrv
+DB_HOST=DESKTOP-NOCFQ8F\MSSQLSERVER2008
+DB_PORT=1433
+DB_DATABASE=Master_Web
+DB_USERNAME=sa
+DB_PASSWORD=ok
+------------------------------------------------------------------------------------------------------------
